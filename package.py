@@ -102,7 +102,7 @@ variants = [
         'openimageio-3.0',
         'gcc-11.x',
         # 'openvdb-12',
-        'openvdb-12.1.1.9', # temp fix to work around a package issue with openvdb-12.1.1.1
+        'openvdb-12.1.1.0', # temp fix to work around a package issue with openvdb-12.1.1.1
         'zlib-1.2.11.x'
     ],
     [   # variant 7
@@ -113,7 +113,7 @@ variants = [
         'openimageio-3.0',
         'gcc-11.x',
         # 'openvdb-12',
-        'openvdb-12.1.1.9', # temp fix to work around a package issue with openvdb-12.1.1.1
+        'openvdb-12.1.1.0', # temp fix to work around a package issue with openvdb-12.1.1.1
         'zlib-1.2.11.x'
     ],
     [   # variant 8
